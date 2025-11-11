@@ -10,8 +10,14 @@
 💻 **Full Stack Software Engineer | Product-Driven Developer | Creative Technologist**  
 📍 Costa Rica  
 
-I’m passionate about building robust, scalable, and meaningful innovations that connects technology, creativity, and real human needs.  
-I love leading projects, designing user-centered architectures, and turning ideas into impactful products.
+
+💡 I’m passionate about building **robust, scalable, and meaningful innovations** that connect technology, creativity, and real human needs.  
+🚀 I love leading projects, designing user-centered architectures, and turning ideas into **impactful products** that make a difference.  
+🌍 I’ve always been inspired by the idea that, as Anne Frank once said, *“we don’t need to wait a single moment to start changing the world.”*  
+💭 And I deeply believe, like Steve Jobs, that *“it’s the ones bold — or crazy — enough to think they can do it, who actually do.”*  
+🔥 I carry both ideas with me every day: the urgency to act, and the audacity to dream big.  
+🤖 That’s why I build technology — not just to solve problems, but to **help shape a better, more conscious future.**
+
 
 ---
 
@@ -122,6 +128,3 @@ Enabled real-time monitoring and automated irrigation using sensors and microcon
 [![GitHub](https://img.shields.io/badge/GitHub-stevenmoraleszeta-black?logo=github)](https://github.com/stevenmoraleszeta)
 [![Instagram](https://img.shields.io/badge/Instagram-@stevenmorales.novaera-pink?logo=instagram)](https://instagram.com/stevenmorales.novaera)
 
----
-
-> “Technology should not only solve problems, but inspire people to create a better world.” 🌍
