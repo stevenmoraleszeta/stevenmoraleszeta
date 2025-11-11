@@ -123,6 +123,11 @@ Enabled real-time monitoring and automated irrigation using sensors and microcon
 ---
 
 ## 🌐 Connect With Me
+💌 **Email:** [fallasmoraless@gmail.com](mailto:fallasmoraless@gmail.com)  
+📱 **WhatsApp / Phone:** [+506 6130 4830](https://wa.me/50661304830)  
+
+If you’d like to collaborate, discuss ideas, or just connect — feel free to reach out.  
+I’m always open to new opportunities, meaningful projects, and conversations about technology, innovation, and STEAM. 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Steven_Morales-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/stevenmoralesfallas)
 [![GitHub](https://img.shields.io/badge/GitHub-stevenmoraleszeta-black?logo=github)](https://github.com/stevenmoraleszeta)
