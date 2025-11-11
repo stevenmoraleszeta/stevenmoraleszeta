@@ -94,7 +94,7 @@ Leading a team of six developers to ensure scalability, quality, and maintainabi
 An integrated ERP for an industrial manufacturing company.  
 Developed modules for inventory, billing, production, and data analytics. Currently under final testing before release.
 
-### 🔹 [ZETA Academia EdTech Platform V1](https://github.com/stevenmoraleszeta/zeta-academia) — 🟢 In Production  
+### 🔹 [ZETA Academia EdTech Platform V1](https://github.com/stevenmoraleszeta/zeta-academia) — 🟢 In Use  
 ### 🔹 [ZETA Academia EdTech Platform V2](https://github.com/stevenmoraleszeta/novaera-academia) — 🟡 In Development
 Founded an EdTech startup offering 30+ courses to 1,000+ students.  
 Designed a scalable and accessible learning platform with analytics, responsive design, and continuous improvements in the V2 version.
@@ -103,7 +103,7 @@ Designed a scalable and accessible learning platform with analytics, responsive 
 Custom ERP and automation platform for an educational institution.  
 Integrated resources management, academic, and attendance modules — optimizing daily operations through automation.
 
-### 🔹 [Demeter IoT Agriculture System Prototype](https://github.com/stevenmoraleszeta/demeter-web) — 🔵 Completed
+### 🔹 [Demeter IoT Agriculture System Prototype](https://github.com/stevenmoraleszeta/demeter-web) — 🔵 Prototype
 IoT solution for smart agriculture, presented in a Nestlé innovation contest.  
 Enabled real-time monitoring and automated irrigation using sensors and microcontrollers.
 
