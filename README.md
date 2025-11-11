@@ -1,3 +1,10 @@
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&center=false&vCenter=false&width=900&lines=CEO+and+Lead+Software+Developer+at+Novaera;CEO+and+Lead+Tech+Educator+at+ZETA+Academia;Building+intelligent+and+scalable+innovative+solutions;Empowering+1000%2B+students+to+learn+Python%2C+AI%2C+and+Web+Development;Focused+on+AI%2C+Automation%2C+and+STEAM+innovation;Believing+that+knowledge+and+hard+work+can+change+the+world" 
+    alt="Typing summary animation" 
+  />
+</p>
+
 # 👋 Hi, I'm Steven!
 
 💻 **Full Stack Software Engineer | Product-Driven Developer | Creative Technologist**  
@@ -10,7 +17,7 @@ I love leading projects, designing user-centered architectures, and turning idea
 
 ## 🧠 About Me
 
-👨‍💻 **CEO & Lead Software Developer** at [Novaera Solutions](https://linkedin.com/in/stevenmoralesfallas), leading a team of 6+ innovators building intelligent and scalable digital solutions.  
+👨‍💻 **CEO & Lead Software Developer** at [Novaera](https://linkedin.com/in/stevenmoralesfallas), leading a team of 6+ innovators building intelligent and scalable digital solutions.  
 🎓 **CEO & Lead Tech Educator** at [ZETA Academia](https://zetaacademia.com/) — leading a team of 4+ tech educators and empowering 1,000+ students to learn Python, AI, and Web Development through personalized, hands-on education.  
 🚀 Looking for an opportunity to join a forward-thinking company where I can pour my energy, creativity, and skills into **building technology that truly makes an impact.**  
 🌱 Currently advancing toward **expertise in Artificial Intelligence.**  
