@@ -105,7 +105,7 @@ Developed modules for inventory, billing, production, and data analytics. Curren
 Founded an EdTech startup offering 30+ courses to 1,000+ students.  
 Designed a scalable and accessible learning platform with analytics, responsive design, and continuous improvements in the V2 version.
 
-### 🔹 [Matemática Integral ERP & Automation System](https://github.com/stevenmoraleszeta/MIPlatform/tree/main/miplatform) — 🟢 In Use
+### 🔹 [Matemática Integral ERP & Automation System](https://github.com/stevenmoraleszeta/MIPlatform) — 🟢 In Use
 Custom ERP and automation platform for an educational institution.  
 Integrated resources management, academic, and attendance modules — optimizing daily operations through automation.
 
