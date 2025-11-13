@@ -92,11 +92,11 @@
 
 ## 🧩 Some Public Featured Projects
 
-### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟡 In Development
+### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟡 In Development https://novaera-saas-erp.vercel.app/login
 A modular SaaS ERP for business management — automation, analytics, and scalable architecture.  
 Leading a team of six developers to ensure scalability, quality, and maintainability.
 
-### 🧭 [Precision Seas ERP System](https://github.com/stevenmoraleszeta/PrecisionSeasERP) — 🟡 In Development / Near Launch
+### 🧭 [Precision Seas ERP System](https://github.com/stevenmoraleszeta/PrecisionSeasERP) — 🟡 In Development / Near Launch https://precision-seas-erp.vercel.app/
 An integrated ERP for an industrial manufacturing company.  
 Developed modules for inventory, billing, production, and data analytics. Currently under final testing before release.
 
