@@ -114,7 +114,7 @@ Designed for smooth productivity with a clean UI, animations, and persistent use
 Custom ERP and automation platform for an educational institution.  
 Integrated resources management, academic, and attendance modules — optimizing daily operations through automation.
 
-### 🌱 [Demeter IoT Agriculture System Prototype](https://github.com/stevenmoraleszeta/demeter-web) — 🔵 Prototype
+### 🌱 [Demeter IoT Agriculture System Prototype](https://github.com/stevenmoraleszeta/demeter-web) — 🔵 Prototype https://demeter-prototype.vercel.app/
 IoT solution for smart agriculture, presented in a Nestlé innovation contest.  
 Enabled real-time monitoring and automated irrigation using sensors and microcontrollers.
 
