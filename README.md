@@ -92,7 +92,7 @@
 
 ## 🧩 Some Public Featured Projects
 
-### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟡 In Development https://novaera-saas-erp.vercel.app/login
+### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟡 In Development https://novaera-saas-erp.vercel.app/
 A modular SaaS ERP for business management — automation, analytics, and scalable architecture.  
 Leading a team of six developers to ensure scalability, quality, and maintainability.
 
@@ -105,7 +105,7 @@ Developed modules for inventory, billing, production, and data analytics. Curren
 Founded an EdTech startup offering 30+ courses to 1,000+ students.  
 Designed a scalable and accessible learning platform with analytics, responsive design, and continuous improvements in the V2 version.
 
-### ⏱️ [TimerChill — Modern Pomodoro Timer](https://github.com/stevenmoraleszeta/timer-chill-web) — 🟢 Live: https://timerchill.vercel.app/  
+### ⏱️ [TimerChill — Modern Pomodoro Timer](https://github.com/stevenmoraleszeta/timer-chill-web) — 🟢 Live https://timerchill.vercel.app/  
 A modern React timer app built with TypeScript and Vite.  
 Includes Pomodoro focus cycles, ambient background sounds, statistics tracking, and dark/light themes.  
 Designed for smooth productivity with a clean UI, animations, and persistent user preferences.
