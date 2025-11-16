@@ -93,15 +93,18 @@
 ## 🧩 Some Public Featured Projects
 
 ### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟡 In Development https://novaera-saas-erp.vercel.app/
+### 🚀 [API Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-api) — 🟡 In Development 
+### 🚀 [DB Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-db) — 🟡 In Development 
 A modular SaaS ERP for business management — automation, analytics, and scalable architecture.  
 Leading a team of six developers to ensure scalability, quality, and maintainability.
 
-### 🧭 [Precision Seas ERP System](https://github.com/stevenmoraleszeta/precision-seas-erp-web) (Private) — 🟡 In Development / Near Launch https://precision-seas-erp.vercel.app/
+### 🧭 Precision Seas ERP System (Private) — 🟡 In Development / Near Launch https://precision-seas-erp.vercel.app/
 An integrated ERP for an industrial manufacturing company.  
 Developed modules for inventory, billing, production, and data analytics. Currently under final testing before release.
 
-### 🎓 [ZETA Academia EdTech Platform V1](https://github.com/stevenmoraleszeta/zeta-academy-web) — 🟢 Live https://zetaacademia.com/
-### 🎓 [ZETA Academia EdTech Platform V2](https://github.com/stevenmoraleszeta/novaera-academy-web) — 🟡 In Development
+### 🎓 [V1 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/zeta-academy-web) — 🟢 Live https://zetaacademia.com/
+### 🎓 [V2 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/novaera-academy-web) — 🟡 In Development
+### 🎓 [API V2 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/novaera-academy-api) — 🟡 In Development
 Founded an EdTech startup offering 30+ courses to 1,000+ students.  
 Designed a scalable and accessible learning platform with analytics, responsive design, and continuous improvements in the V2 version.
 Leading a team of six developers and educators to ensure scalability, quality, and maintainability.
@@ -111,11 +114,12 @@ A modern React timer app built with TypeScript and Vite.
 Includes Pomodoro focus cycles, ambient background sounds, statistics tracking, and dark/light themes.  
 Designed for smooth productivity with a clean UI, animations, and persistent user preferences.
 
-### 🏫 [Matemática Integral ERP & Automation System](https://github.com/stevenmoraleszeta/matematica-integral-web) (Private) — 🟢 In Use 
+### 🏫 [Matemática Integral ERP & Automation System](https://github.com/stevenmoraleszeta/matematica-integral-web) — 🟢 Paused 
+The project was paused at the client’s request. I have permission to show it.
 Custom ERP and automation platform for an educational institution.  
 Integrated resources management, academic, and attendance modules — optimizing daily operations through automation.
 
-### 🌱 [Demeter IoT Agriculture System Prototype](https://github.com/stevenmoraleszeta/demeter-prototype) — 🔵 Prototype https://demeter-prototype.vercel.app/
+### 🌱 [Demeter IoT Agriculture System Prototype](https://github.com/stevenmoraleszeta/demeter-prototype) — 🟢 Prototype https://demeter-prototype.vercel.app/
 IoT solution for smart agriculture, presented in a Nestlé innovation contest.  
 Enabled real-time monitoring and automated actions using sensors and microcontrollers.
 
