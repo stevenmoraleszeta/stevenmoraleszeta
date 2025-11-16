@@ -96,27 +96,28 @@
 A modular SaaS ERP for business management — automation, analytics, and scalable architecture.  
 Leading a team of six developers to ensure scalability, quality, and maintainability.
 
-### 🧭 [Precision Seas ERP System](https://github.com/stevenmoraleszeta/PrecisionSeasERP) — 🟡 In Development / Near Launch https://precision-seas-erp.vercel.app/
+### 🧭 [Precision Seas ERP System](https://github.com/stevenmoraleszeta/precision-seas-erp-web) (Private) — 🟡 In Development / Near Launch https://precision-seas-erp.vercel.app/
 An integrated ERP for an industrial manufacturing company.  
 Developed modules for inventory, billing, production, and data analytics. Currently under final testing before release.
 
-### 🎓 [ZETA Academia EdTech Platform V1](https://github.com/stevenmoraleszeta/zeta-academia) — 🟢 Live https://zetaacademia.com/
-### 🎓 [ZETA Academia EdTech Platform V2](https://github.com/stevenmoraleszeta/novaera-academia) — 🟡 In Development
+### 🎓 [ZETA Academia EdTech Platform V1](https://github.com/stevenmoraleszeta/zeta-academy-web) — 🟢 Live https://zetaacademia.com/
+### 🎓 [ZETA Academia EdTech Platform V2](https://github.com/stevenmoraleszeta/novaera-academy-web) — 🟡 In Development
 Founded an EdTech startup offering 30+ courses to 1,000+ students.  
 Designed a scalable and accessible learning platform with analytics, responsive design, and continuous improvements in the V2 version.
+Leading a team of six developers and educators to ensure scalability, quality, and maintainability.
 
 ### ⏱️ [TimerChill — Modern Pomodoro Timer](https://github.com/stevenmoraleszeta/timer-chill-web) — 🟢 Live https://timerchill.vercel.app/  
 A modern React timer app built with TypeScript and Vite.  
 Includes Pomodoro focus cycles, ambient background sounds, statistics tracking, and dark/light themes.  
 Designed for smooth productivity with a clean UI, animations, and persistent user preferences.
 
-### 🏫 [Matemática Integral ERP & Automation System](https://github.com/stevenmoraleszeta/MIPlatform) — 🟢 In Use 
+### 🏫 [Matemática Integral ERP & Automation System](https://github.com/stevenmoraleszeta/matematica-integral-web) (Private) — 🟢 In Use 
 Custom ERP and automation platform for an educational institution.  
 Integrated resources management, academic, and attendance modules — optimizing daily operations through automation.
 
-### 🌱 [Demeter IoT Agriculture System Prototype](https://github.com/stevenmoraleszeta/demeter-web) — 🔵 Prototype https://demeter-prototype.vercel.app/
+### 🌱 [Demeter IoT Agriculture System Prototype](https://github.com/stevenmoraleszeta/demeter-prototype) — 🔵 Prototype https://demeter-prototype.vercel.app/
 IoT solution for smart agriculture, presented in a Nestlé innovation contest.  
-Enabled real-time monitoring and automated irrigation using sensors and microcontrollers.
+Enabled real-time monitoring and automated actions using sensors and microcontrollers.
 
 ---
 
