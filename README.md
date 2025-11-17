@@ -114,7 +114,7 @@ A modern React timer app built with TypeScript and Vite.
 Includes Pomodoro focus cycles, ambient background sounds, statistics tracking, and dark/light themes.  
 Designed for smooth productivity with a clean UI, animations, and persistent user preferences.
 
-### 🏫 [Matemática Integral ERP & Automation System](https://github.com/stevenmoraleszeta/matematica-integral-web) — 🟢 Paused 
+### 🏫 [Matemática Integral ERP & Automation System](https://github.com/stevenmoraleszeta/matematica-integral-web) — 🟢 Paused https://matematica-integral.vercel.app
 The project was paused at the client’s request. I have permission to show it.
 Custom ERP and automation platform for an educational institution.  
 Integrated resources management, academic, and attendance modules — optimizing daily operations through automation.
