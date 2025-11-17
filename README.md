@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Steven!
 
-💻 **Full Stack Software Engineer | Product-Driven Developer | Creative Technologist**  
+💻 **Full Stack Software Engineer | Tech Leader | Product-Driven Developer | Creative Technologist**  
 📍 Costa Rica  
 
 
