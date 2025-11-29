@@ -119,10 +119,12 @@ A modular SaaS ERP for business management — automation, analytics, and scalab
 Leading a team of six developers to ensure scalability, quality, and maintainability.
 
 ### 🧭 Precision Seas ERP System (Private) — 🟡 In Development / Near Launch https://precision-seas-erp.vercel.app/
+### 🧭 API Precision Seas ERP System (Private) — 🟡 In Development
+### 🧭 DB Precision Seas ERP System (Private) — 🟡 In Development
 An integrated ERP for an industrial manufacturing company.  
 Developed modules for inventory, billing, production, and data analytics. Currently under final testing before release.
 
-### 🎓 [V1 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/zeta-academy-web) — 🟢 Live https://zetaacademia.com/
+### 🎓 V1 ZETA Academia EdTech Platform (Private) — 🟢 Live https://zetaacademia.com/
 ### 🎓 [V2 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/novaera-academy-web) — 🟡 In Development
 ### 🎓 [API V2 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/novaera-academy-api) — 🟡 In Development
 Founded an EdTech startup offering 30+ courses to 1,000+ students.  
