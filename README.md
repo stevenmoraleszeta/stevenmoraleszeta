@@ -108,6 +108,9 @@
 ---
 
 ## 🧩 Some Public Featured Projects
+### 🎯 [Steven Morales FE-01 – Front-End Experience Engine](https://github.com/stevenmoraleszeta/critical-mass-example-project) — 🟡 In Development
+A professional portfolio prototype built specifically for the Critical Mass Front-End Developer role.  
+Demonstrates design-to-code translation, responsive architecture, accessibility best practices (WCAG), API integration, SASS/SCSS preprocessing with BEM methodology, and component library development. Built with Next.js 14, TypeScript, and React Testing Library to showcase front-end expertise in an agency context.
 
 ### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟡 In Development https://novaera-saas-erp.vercel.app/
 ### 🚀 [API Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-api) — 🟡 In Development 
