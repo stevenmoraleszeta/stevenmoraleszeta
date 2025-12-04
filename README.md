@@ -108,9 +108,9 @@
 ---
 
 ## 🧩 Some Public Featured Projects
-### 🎯 [Critical Mass Portfolio Prototype](https://github.com/stevenmoraleszeta/critical-mass-example-project) — 🟡 In Development https://stevenmorales.vercel.app/
-A professional portfolio prototype built specifically for the Critical Mass Front-End Developer role.  
-Demonstrates design-to-code translation, responsive architecture, accessibility best practices (WCAG), API integration, SASS/SCSS preprocessing with BEM methodology, and component library development. Built with Next.js 14, TypeScript, and React Testing Library to showcase front-end expertise in an agency context.
+### 🎯 [Critical Mass Front-End Portfolio](https://github.com/stevenmoraleszeta/critical-mass-example-project) — 🟢 Live https://stevenmorales.vercel.app/
+A production-ready portfolio built for the Critical Mass Developer, Front End role, showcasing design-to-code translation, a responsive design system, WCAG accessibility, and a reusable component library with Next.js 16, React 19, TypeScript, and SCSS (BEM + SMACSS).
+
 
 ### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟡 In Development https://novaera-saas-erp.vercel.app/
 ### 🚀 [API Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-api) — 🟡 In Development 
