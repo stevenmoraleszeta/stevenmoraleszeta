@@ -109,6 +109,12 @@
 ---
 
 ## 🧩 Some Public Featured Projects
+### 🧠 AI Persona System (Private) — 🟡 In Development  
+### 🧠 API AI Persona System (Private) — 🟡 In Development  
+### 🧠 DB AI Persona System (Private) — 🟡 In Development  
+A next-generation AI system designed to build **persistent, evolving digital personas** with memory, identity, and human-like interaction.  
+Focused on long-term user understanding, behavioral adaptation, and context-aware conversational intelligence.
+
 ### 🎯 [Critical Mass Front-End Portfolio](https://github.com/stevenmoraleszeta/critical-mass-example-project) — 🟢 Live https://stevenmorales.vercel.app/
 A production-ready portfolio built for the Critical Mass Developer, Front End role, showcasing design-to-code translation, a responsive design system, WCAG accessibility, and a reusable component library with Next.js 16, React 19, TypeScript, and SCSS (BEM + SMACSS).
 
