@@ -115,6 +115,12 @@
 A next-generation AI system designed to build **persistent, evolving digital personas** with memory, identity, and human-like interaction.  
 Focused on long-term user understanding, behavioral adaptation, and context-aware conversational intelligence.
 
+### 🏢 [Atreyus AI ERP](https://github.com/stevenmoraleszeta/atreyus-ai-erp-web) — 🟡 In Development  
+### 🏢 [API Atreyus AI ERP](https://github.com/stevenmoraleszeta/atreyus-ai-erp-api) — 🟡 In Development  
+### 🏢 [DB Atreyus AI ERP](https://github.com/stevenmoraleszeta/atreyus-ai-erp-db) — 🟡 In Development  
+A full-stack ERP enhanced with a **multi-agent AI architecture (Planner, Orchestrator, Response Agent)** that transforms natural language into **auditable and executable database operations**.  
+Built for real-world business environments with structured modules, contextual reasoning, and controlled execution.
+
 ### 🎯 [Critical Mass Front-End Portfolio](https://github.com/stevenmoraleszeta/critical-mass-example-project) — 🟢 Live https://stevenmorales.vercel.app/
 A production-ready portfolio built for the Critical Mass Developer, Front End role, showcasing design-to-code translation, a responsive design system, WCAG accessibility, and a reusable component library with Next.js 16, React 19, TypeScript, and SCSS (BEM + SMACSS).
 
