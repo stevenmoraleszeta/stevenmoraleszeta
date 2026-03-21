@@ -125,21 +125,21 @@ Built for real-world business environments with structured modules, contextual r
 A production-ready portfolio built for the Critical Mass Developer, Front End role, showcasing design-to-code translation, a responsive design system, WCAG accessibility, and a reusable component library with Next.js 16, React 19, TypeScript, and SCSS (BEM + SMACSS).
 
 
-### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟡 In Development https://novaera-saas-erp.vercel.app/
-### 🚀 [API Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-api) — 🟡 In Development 
-### 🚀 [DB Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-db) — 🟡 In Development 
+### 🚀 [Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-web) — 🟢 Paused
+### 🚀 [API Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-api) — 🟢 Paused 
+### 🚀 [DB Novaera SaaS ERP](https://github.com/stevenmoraleszeta/novaera-saas-erp-db) — 🟢 Paused
 A modular SaaS ERP for business management — automation, analytics, and scalable architecture.  
 Leading a team of six developers to ensure scalability, quality, and maintainability.
 
-### 🧭 Precision Seas ERP System (Private) — 🟡 In Development / Near Launch https://precision-seas-erp.vercel.app/
-### 🧭 API Precision Seas ERP System (Private) — 🟡 In Development
-### 🧭 DB Precision Seas ERP System (Private) — 🟡 In Development
+### 🧭 Precision Seas ERP System (Private) — 🟢 Live  
+### 🧭 API Precision Seas ERP System (Private) — 🟢 Live 
+### 🧭 DB Precision Seas ERP System (Private) — 🟢 Live 
 An integrated ERP for an industrial manufacturing company.  
-Developed modules for inventory, billing, production, and data analytics. Currently under final testing before release.
+Developed modules for inventory, billing, production, and data analytics.
 
 ### 🎓 V1 ZETA Academia EdTech Platform (Private) — 🟢 Live https://zetaacademia.com/
-### 🎓 [V2 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/novaera-academy-web) — 🟡 In Development
-### 🎓 [API V2 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/novaera-academy-api) — 🟡 In Development
+### 🎓 [V2 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/novaera-academy-web) — 🟢 Paused
+### 🎓 [API V2 ZETA Academia EdTech Platform](https://github.com/stevenmoraleszeta/novaera-academy-api) — 🟢 Paused
 Founded an EdTech startup offering 30+ courses to 1,000+ students.  
 Designed a scalable and accessible learning platform with analytics, responsive design, and continuous improvements in the V2 version.
 Leading a team of six developers and educators to ensure scalability, quality, and maintainability.
