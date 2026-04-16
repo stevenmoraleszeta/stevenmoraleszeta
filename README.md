@@ -115,7 +115,7 @@
 A next-generation AI system designed to build **persistent, evolving digital personas** with memory, identity, and human-like interaction.  
 Focused on long-term user understanding, behavioral adaptation, and context-aware conversational intelligence.
 
-### 🏢 Atreyus AI ERP (Private) — 🟢 Prototype  Live https://atreyus-ai-erp-web.vercel.app/
+### 🏢 Atreyus AI ERP (Private) — 🟢 Prototype 
 ### 🏢 API Atreyus AI ERP (Private) — 🟢 Prototype  
 ### 🏢 DB Atreyus AI ERP (Private) — 🟢 Prototype 
 An AI driven system that transforms operational data into decisions. It enables natural language interaction to analyze, visualize, and execute tasks, reducing hours of work to seconds for just cents instead of thousands of dollars, while maintaining full control, transparency, and efficiency across business operations.
